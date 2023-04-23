@@ -1,7 +1,5 @@
 # chat2GPT
 
-# Chat2GPT-Archive
-
 本仓库旨在收藏和存储与 ChatGPT 的交流记录和文献资源，以便回顾、分享和进一步研究。
 
 ## 项目介绍
