@@ -1,1 +1,1 @@
-# chatGPT-doc
+# chat2GPT
